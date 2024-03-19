@@ -1,0 +1,25 @@
+.prj-hr-line {
+    border-radius: 5px;
+    /* width: 100%; */
+    max-width: 600px;
+    border: 1px solid #063b73;
+    margin: 0px auto 32px;
+  
+  }
+  @media screen and (max-width: 865px) {
+    .video-div{
+      max-width: 350px;
+      width: 100%;
+    }
+  }
+  .projects-div {
+    padding: 90px 100px 100px 100px;
+  }
+  .prjct-title {
+    font-family: "Blorado, sans-serif";
+    font-size: 32px;
+    color: #111;
+    font-weight: 700;
+    margin-bottom: 24px;
+    text-align: center;
+  }
