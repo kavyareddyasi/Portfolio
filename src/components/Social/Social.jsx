@@ -10,7 +10,7 @@ const Social = ({DevToLogo, color}) => {
         window.open("https://www.linkedin.com/in/asi-kavya-reddy-308574146/");
       };
       const handleGitGubClick = () => {
-        window.open("https://github.com/kavyaredd9");
+        window.open("https://github.com/kavyareddyasi");
       };
       const handleTwitterClick = () => {
         window.open("https://twitter.com/kavya-reddy");
